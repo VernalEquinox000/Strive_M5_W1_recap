@@ -1,0 +1,20 @@
+[
+  {
+    "name": "phone 2",
+    "category": "phones",
+    "price": 500,
+    "_id": "68x12gkin5xuav"
+  },
+  {
+    "name": "phone 2",
+    "category": "phones",
+    "price": 300,
+    "_id": "68xe9okin5zm5o"
+  },
+  {
+    "name": "car 3",
+    "category": "cars",
+    "price": 50000,
+    "_id": "68xcsokin60itn"
+  }
+]
